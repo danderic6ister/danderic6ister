@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Solidity developer</h3>
+<h3 align="center">A passionate Solidity and Web3.js developer</h3>
 
 <p align="left"> <a href="https://twitter.com/danielunveiled" target="blank"><img src="https://img.shields.io/twitter/follow/danielunveiled?logo=twitter&style=for-the-badge" alt="danielunveiled" /></a> </p>
+
+- 🔭 I’m currently working on [a Employee Payment Contract](https://github.com/danderic6ister/payroll-contract)
 
 - 🌱 I’m currently learning **React**
 
